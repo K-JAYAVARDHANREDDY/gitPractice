@@ -1,4 +1,4 @@
-//first commit  
+//second commit  
 import java.util.Scanner;
 
 public class first1 {
@@ -10,3 +10,4 @@ public class first1 {
 		scanner.close();
 	}
 }
+
